@@ -1,0 +1,14 @@
+# Dependencies
+_website/node_modules/
+
+# Build output
+_website/docs/.vitepress/dist/
+_website/docs/.vitepress/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
